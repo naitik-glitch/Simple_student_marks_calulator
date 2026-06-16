@@ -1,8 +1,10 @@
-Student Marks Calculator
+# 📊 Student Marks Calculator
+
+## About
 
 A simple Python program to calculate the total marks, average marks, and percentage of a student.
 
-Features
+## Features
 
 - Takes marks for 5 subjects
 - Calculates total marks
@@ -12,7 +14,7 @@ Features
 - Checks that marks are between 0 and 100
 - Allows the user to calculate again
 
-Subjects
+## Subjects
 
 - English
 - Hindi
@@ -20,19 +22,21 @@ Subjects
 - Science
 - Social Science
 
-Skills Used
+## Skills Used
 
 - Functions
 - Lists
 - User Input
 - Conditional Statements
-- Loops ("while")
-- Exception Handling ("try" and "except")
+- Loops (`while`)
+- Exception Handling (`try` and `except`)
 
-Run The Program
+## Run the Program
 
+```bash
 python student_marks_calculator.py
+```
 
-Author
+## Author
 
 Made by Naitik while learning Python.
